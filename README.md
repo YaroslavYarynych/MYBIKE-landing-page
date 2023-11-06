@@ -50,5 +50,5 @@ $ npm start
 
 ## Author
 
-- [GitHub](https://github.com/YaroslavYarynych)
-- [Telegram](https://t.me/Slavik_Yarynych)
+- GitHub - [YaroslavYarynych](https://github.com/YaroslavYarynych)
+- Telegram - [Slavik_Yarynych](https://t.me/Slavik_Yarynych)
