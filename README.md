@@ -52,3 +52,4 @@ $ npm start
 
 - GitHub - [YaroslavYarynych](https://github.com/YaroslavYarynych)
 - Telegram - [Slavik_Yarynych](https://t.me/Slavik_Yarynych)
+- LinkedIn - [Yaroslav Yarynych](https://www.linkedin.com/in/yaroslav-yarynych-87856722a/)
