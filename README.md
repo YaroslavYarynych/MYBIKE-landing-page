@@ -1,35 +1,31 @@
-# <img src="./src/images/icons/favicon.png" alt="Bicycle Icon" width="16" height="16"> myBike landing page
-<hr>
+# <img src="./src/images/icons/favicon.png" alt="Bicycle Icon" width="30" height="30"> myBike landing page
 
-## Overview {#overview}
-<hr>
+## Overview
 MyBike Landing Page is a web page created using various technologies, designed to attract and engage visitors.<br>
 This landing page not only provides information about products or services but also <br> offers rich functionality, including animations, interactivity, and the ability to interact with users.
 
-### The challenge {#challenge}
+### The challenge
 
 User should be able to:
 - Access the website on various devices
 - Explore the website using links provided in the navigation bar
 - See animations and transitions that enhance their overall user experience
 
-### Links {#links}
+### Links
 
 - [Solution URL](https://github.com/YaroslavYarynych/MYBIKE-Landing)
-- [Demo URL](https://YaroslavYarynych.github.io/MYBIKE-landing/)
+- [Demo URL](https://yaroslavyarynych.github.io/MYBIKE-Landing/)
 
-## My process {#progress}
-<hr>
+## My process
 
-### Build with {#BuildWith}
+### Build with
  - Semantic HTML5 markup
  - CSS3: grid, flexbox
  - BEM methodology
  - Preprocessors: Sass
  - AOS library for animations
 
-## Setup {#setup}
-<hr>
+## Setup
 
 1. Use 14 version of node.js: <br>
 ```sh
@@ -52,8 +48,7 @@ $ npm install
 $ npm start
 ```
 
-## Author {#author}
-<hr>
+## Author
 
-- GitHub[https://github.com/YaroslavYarynych]
-- Telegram[https://t.me/Slavik_Yarynych]
+- [GitHub](https://github.com/YaroslavYarynych)
+- [Telegram](https://t.me/Slavik_Yarynych)
