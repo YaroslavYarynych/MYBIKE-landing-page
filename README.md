@@ -13,8 +13,8 @@ User should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/YaroslavYarynych/MYBIKE-Landing)
-- [Demo URL](https://yaroslavyarynych.github.io/MYBIKE-Landing/)
+- [Solution URL](https://github.com/YaroslavYarynych/MYBIKE-Landing-page)
+- [Demo URL](https://yaroslavyarynych.github.io/MYBIKE-landing-page/)
 
 ## My process
 
