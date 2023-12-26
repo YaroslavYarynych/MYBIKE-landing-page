@@ -25,6 +25,11 @@ User should be able to:
  - Preprocessors: Sass
  - AOS library for animations
 
+## Screen recorder
+
+[myBike-landing.webm](https://github.com/YaroslavYarynych/MYBIKE-landing-page/assets/63805271/812b6d28-b71a-477c-8754-3c389125979b)
+
+
 ## Setup
 
 1. Use 14 version of node.js: <br>
